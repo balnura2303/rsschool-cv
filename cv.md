@@ -15,4 +15,4 @@ I never tried to pass IELTS exam, but everyone tells that my English level is "I
 - _2014_ - _2018_  **Bechalors Degree - Karaganda State Technical University**  
     > Specialty: Information security system
 - _2019_ **Itlect**
-   > IT Project Management
+   > IT Project Management 
