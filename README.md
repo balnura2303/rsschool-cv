@@ -3,7 +3,6 @@ https://balnura2303.github.io/rsschool-cv/cv
 
 ## Contact info :phone:
 - Email: balnura2303@gmail.com
-- Discord:
 - Telegram: balnura_a
 
 ## About me :ocean:
